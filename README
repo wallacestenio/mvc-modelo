@@ -1,0 +1,6 @@
+basta iniciar o php com o comando
+
+php -S localhost:xxxx -t public
+
+onde xxxx são os 4 digitos da porta que será atulizada ex: 8000 ou 8001 ou ....
+
