@@ -56,7 +56,7 @@
             background: #333;
             color: white;
             text-align: center;
-            padding: 1rem;
+            padding: 1px;
             position: fixed;
             bottom: 0;
             width: 100%;
