@@ -1,3 +1,7 @@
+Projeto em MVC base para criação de novas aplicações em php 8.
+Utilizando URL's amigáveis sem uso do arquivo .htaccess.
+Conexão com banco de dados SQLite.
+
 basta iniciar o php com o comando
 
 php -S localhost:xxxx -t public
